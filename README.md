@@ -18,7 +18,7 @@ lung-cancer-detection/
 └── sample_images/                  # Sample CT scan images
 
 ## 🛠️ Installation
-###Prerequisites
+### Prerequisites
 - Python 3.8+
 - Jupyter Notebook
 - Google Colab (for running the notebook)
