@@ -17,25 +17,25 @@ lung-cancer-detection/
 ├── README.md                       # Project documentation
 └── sample_images/                  # Sample CT scan images
 
-##🛠️ Installation
+## 🛠️ Installation
 ###Prerequisites
 - Python 3.8+
 - Jupyter Notebook
 - Google Colab (for running the notebook)
   
-##📊 Dataset
+## 📊 Dataset
 The model is trained on a dataset containing 3003 lung CT scan images across three categories:
 - lung_aca: Lung adenocarcinoma
 - lung_scc: Lung squamous cell carcinoma
 - lung_n: Normal lung (no cancer)
 
-##Dataset Statistics:
+## Dataset Statistics:
 - Total Images: 3003
 - Training Set: 2402 images (80%)
 - Testing Set: 601 images (20%)
 - Image Size: 224x224 pixels (grayscale)
 
-##⚠️ Important Notes
+## ⚠️ Important Notes
 - Medical Disclaimer: This is a research project and should not be used for actual medical diagnosis
 - Dataset Limitations: Model performance depends on training data quality and diversity
 - Clinical Validation: Requires validation with clinical experts before real-world use
