@@ -10,7 +10,7 @@
 - Real-time Prediction: Instant results with confidence scores
 
 ## 📁 Project Structure:
-###lung-cancer-detection/
+lung-cancer-detection/
 ├── lung_cancer_detection.ipynb     # Main Jupyter notebook
 ├── lung_cancer_cnn.h5              # Trained model
 ├── requirements.txt                # Python dependencies
